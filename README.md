@@ -8,14 +8,13 @@ This project is inspired from a UI design by Ruben Vaalt on [Dribble](https://dr
 
 ## UI Design Inspiration
 
-### Final Design 
+## Final Design 
 ![Final UI](https://cdn.dribbble.com/users/1553101/screenshots/4585382/dribbble_post.png)
 
 ### Homepage 
 
 ![Final UI](https://cdn.dribbble.com/users/1553101/screenshots/4585382/attachments/1036694/selector_page.png)
 
-### Result Page
+## Result Page
 
-![Final UI](https://cdn.dribbble.com/users/1553101/screenshots/4585382/attachments/1036693/result_page.png)# bmi-calculator-flutter
-
+![Final UI](https://cdn.dribbble.com/users/1553101/screenshots/4585382/attachments/1036693/result_page.png)
